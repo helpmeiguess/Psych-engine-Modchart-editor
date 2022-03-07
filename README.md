@@ -3,6 +3,9 @@ Open source modchart maker for FNF.
 
 WARNING: This is in VERY early access, and some things in the editor have no use and are left over from the original chartingstate.
 
+How to get source:
+Download Shadowmario's Psych engine 0.5.1
+Replace Chartingstate.hx, FunkinLua.hx, Note.hx, Strumnote.hx, with the files i provided, and add ModChartingState to the editors folder.
 How to use:
 Go into any song and press 9 to go into the modchart editor.
 Move left and right by holding shift and using scroll wheel.
