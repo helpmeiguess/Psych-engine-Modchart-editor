@@ -13,6 +13,4 @@ Bugs:
 Sometimes, move a note and play the first time, the note will move to the wrong position. Will work this out in the next update.
 If there are too many notes, this will cause a lot of lag when pressing space, sometimes.
 Notes in the first tile in sections sometimes wont play their tween.
-Many others that I am not aware of, please tell me in the comments!
-
-I will be releasing source next update, have fun!
+Many others that I am not aware of, please tell me!
